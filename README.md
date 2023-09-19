@@ -1,0 +1,1 @@
+# itexpay_wordpress_plugin
