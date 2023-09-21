@@ -836,7 +836,7 @@ function add_submenu_settings()
 
     add_submenu_page(
         'itexmenu',
-        __('Books Shortcode Reference', 'textdomain'),
+        __('settings page', 'textdomain'),
         __('Settings', 'textdomain'),
         'manage_options',
         'settings',
@@ -849,7 +849,7 @@ function add_submenu_transaction() {
 
     add_submenu_page(
         'itexmenu',
-        __( 'Books Shortcode Reference', 'textdomain' ),
+        __( 'transactions page', 'textdomain' ),
         __( 'Transactions', 'textdomain' ),
         'manage_options',
         'transactions',
