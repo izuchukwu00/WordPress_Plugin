@@ -7,7 +7,7 @@
 /*
 Plugin Name: ItexPay WP_Plugin
 Plugin URI: http://wordpress.org/plugins/itexpay_plugin_WP/
-Description: This Plugin is not just for web acquiring. You can now access all our Itex services in one click! Thanks to ITEX | WORDPRESS
+Description: This ItexPay Plugin is used for web acquiring in WORDPRESS.
 Author: ITEX Integrated Services
 Version: 1.0.2
 Author URI: https://iisysgroup.com
