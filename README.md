@@ -14,3 +14,4 @@ Your customers can click the payment button anytime and from any device to make 
 
 - Visit the transactions page to view all your transactions.
 
+- Visit https://m.youtube.com/watch?v=BkV-nvI1N4A for demo video 
